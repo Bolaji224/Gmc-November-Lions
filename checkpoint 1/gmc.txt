@@ -1,0 +1,15 @@
+Answers
+Section 1
+            A.Web development is the process of building and maintaining websites and web applications. It involves a combination of various tasks, including designing, coding, testing, and deploying websites, as well as ensuring their functionality, usability, and performance across different devices and browsers It is essential because its the foundation of web development
+           B. HTML stands for Hypertext Markup Language. Its purpose is creating of content of web development
+Section 2
+        CSS stands for Cascading Style sheet .this works in presentation of the content. It is also for virtual styling. This controls its style
+
+Section 3
+          JavaScript is a programming language that enables developers to create dynamic, interactive, and responsive elements on websites. Unlike HTML and CSS . JavaScript is used to make webpages interactive by adding behavior and logicJavaScript plays a central role in making modern websites interactive, dynamic, and engaging. .
+Section 4
+         React is a JavaScript library primarily used for building user interfaces (UI)
+       Node.js is a JavaScript runtime environment that allows you to run JavaScript on the server-side.  
+
+Section 5
+          I want to be able to create an easy score sports calculating website which will surpass the likes of livescores and flashscores
